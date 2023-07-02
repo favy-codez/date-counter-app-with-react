@@ -1,0 +1,48 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  width: 400px;
+  margin: 8rem auto;
+  padding: 2rem 0 3rem 0;
+  background-color: #f7f7f7;
+}
+
+h2{
+  font-size: 2rem;
+}
+
+.part-a{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+.part-b{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+button{
+  padding: 2px 16px;
+  background-color: rgba(89, 22, 177, 0.76);
+  color: #fff;
+  border: none;
+  font-size: 22px;
+  font-weight: 300;
+  background-color: #7950f2;
+}
+
+button:hover{
+  color: #000;
+}
+
+span{
+  font-size: 19px;
+  font-weight: 600;
+}
