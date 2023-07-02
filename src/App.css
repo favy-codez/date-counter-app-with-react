@@ -45,5 +45,6 @@ button:hover{
 span{
   font-size: 19px;
   font-weight: 600;
-  width: 100px;
+  width: 150px;
+  text-align: center;
 }
