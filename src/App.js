@@ -13,7 +13,7 @@ function Counter(){
   const [count, setCounter] = useState(0);
   const [step, setStep] = useState(0);
 
-  const date = new Date();
+  const date = new Date("");
   date.setDate(date.getDate( ) + count);
 
   return(
