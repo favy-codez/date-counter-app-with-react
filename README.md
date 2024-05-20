@@ -10,3 +10,4 @@ To ensure that state updates correctly reflect the latest state, you can use a c
 ```
 const date = new Date("september 8, 2024")
 ```
+- **Math.abs()** - Returns the absolute (positive) value of a number. it will convert -5 to 5.
